@@ -1,6 +1,6 @@
 # cone
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple cone in a 3D view. Сalculations are performed on the server
 
 ## Recommended IDE Setup
 
